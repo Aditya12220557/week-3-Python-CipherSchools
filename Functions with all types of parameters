@@ -1,0 +1,6 @@
+def details(id, name):
+    print("Emp id is: ",id)
+    print("Emp name is: ",name)
+
+# calling function
+details(1, name="Anushka")
